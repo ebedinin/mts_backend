@@ -1,0 +1,15 @@
+asgiref==3.2.7
+Django==3.0.7
+django-cors-headers==3.3.0
+django-filter==2.2.0
+djangorestframework==3.11.0
+djangorestframework-csv==2.1.0
+drf-jwt==1.13.2
+gunicorn==19.9.0
+PyJWT==1.7.1
+PyMySQL==0.9.3
+pytz==2019.1
+six==1.12.0
+sqlparse==0.3.0
+unicodecsv==0.14.1
+xlrd==1.2.0
